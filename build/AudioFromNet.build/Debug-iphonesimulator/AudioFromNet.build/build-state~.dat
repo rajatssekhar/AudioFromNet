@@ -1,0 +1,250 @@
+TAudioFromNet
+v7
+r0
+t319796531.858380
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/Debug-iphonesimulator/AudioFromNet.app/Info.plist" AudioFromNet-Info.plist
+cCompileXIB "/Users/sathish/Documents/iPhone Apps/AudioFromNet/MainWindow.xib"
+cCompileXIB "/Users/sathish/Documents/iPhone Apps/AudioFromNet/AudioFromNetViewController.xib"
+cProcessPCH /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioFromNet_Prefix-fkkqosuocuzrusfustppolzspyoo/AudioFromNet_Prefix.pch.gch AudioFromNet_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/Objects-normal/i386/main.o "/Users/sathish/Documents/iPhone Apps/AudioFromNet/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/Objects-normal/i386/AudioFromNetAppDelegate.o "/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/Objects-normal/i386/AudioFromNetViewController.o "/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sathish/Documents/iPhone Apps/AudioFromNet/AudioFromNetViewController.xib
+c000000004D5F7BE20000000000004613
+t1298103266
+s17939
+
+N/Users/sathish/Documents/iPhone Apps/AudioFromNet/AudioFromNet_Prefix.pch
+c000000004D5F7A0600000000000000C1
+t1298102790
+s193
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetAppDelegate.h
+c000000004D5F7A060000000000000200
+t1298102790
+s512
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetAppDelegate.m
+c000000004D5F7A060000000000000AB1
+t1298102790
+s2737
+i"AudioFromNetAppDelegate.h"
+i"AudioFromNetViewController.h"
+
+N/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.h
+c000000004D5F7CC40000000000000172
+t1298103492
+s370
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m
+c000000004D5F7DAD00000000000007A4
+t1298103725
+s1956
+i"AudioFromNetViewController.h"
+
+N/Users/sathish/Documents/iPhone Apps/AudioFromNet/MainWindow.xib
+c000000004D5F7A060000000000004E65
+t1298102790
+s20069
+
+N/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/Objects-normal/i386/AudioFromNet.LinkFileList
+c000000004D5F7DB200000000000001D6
+t1298103730
+s470
+
+N/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/Objects-normal/i386/AudioFromNetAppDelegate.o
+t2
+s0
+
+N/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/Objects-normal/i386/AudioFromNetViewController.o
+t2
+s0
+
+N/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/Objects-normal/i386/main.o
+t1298103731
+s6324
+
+N/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/Debug-iphonesimulator/AudioFromNet.app
+t2
+s0
+
+N/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/Debug-iphonesimulator/AudioFromNet.app.dSYM
+t2
+s0
+
+N/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/Debug-iphonesimulator/AudioFromNet.app/AudioFromNet
+t2
+s0
+
+N/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/Debug-iphonesimulator/AudioFromNet.app/AudioFromNetViewController.nib
+t1298103730
+s1407
+
+N/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/Debug-iphonesimulator/AudioFromNet.app/Info.plist
+t1298103730
+s611
+
+N/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/Debug-iphonesimulator/AudioFromNet.app/MainWindow.nib
+t1298103730
+s1133
+
+N/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/Debug-iphonesimulator/AudioFromNet.app/PkgInfo
+t1298103730
+s8
+
+N/Users/sathish/Documents/iPhone Apps/AudioFromNet/main.m
+c000000004D5F7A060000000000000171
+t1298102790
+s369
+i<UIKit/UIKit.h>
+
+N/var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioFromNet_Prefix-fkkqosuocuzrusfustppolzspyoo/AudioFromNet_Prefix.pch.gch
+t1298103731
+s15453392
+
+NAudioFromNet-Info.plist
+c000000004D5F7A06000000000000038D
+t1298102790
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies319796530#319796530#0(0"0(0#1#0"27866456492998768#0"0#
+
+CCompileC build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/Objects-normal/i386/AudioFromNetAppDelegate.o "/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319796531.661497
+e319796531.804440
+r0
+xCompileC
+xbuild/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/Objects-normal/i386/AudioFromNetAppDelegate.o
+x/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetAppDelegate.m:10:
+o/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.h:13: error: expected specifier-qualifier-list before 'AVAudioPlayer'
+o/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.h:18: error: expected specifier-qualifier-list before 'AVAudioPlayer'
+lSLF07#2@91"Compile /Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetAppDelegate.m319796531#319796531#0(420"In file included from /Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetAppDelegate.m:10:/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.h:13: error: expected specifier-qualifier-list before 'AVAudioPlayer'/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.h:18: error: expected specifier-qualifier-list before 'AVAudioPlayer'2(4@56"Expected specifier-qualifier-list before 'AVAudioPlayer'319796531#110#155#2(7@105"In file included from /Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetAppDelegate.m319796531#18446744073709551615#0#0(6@83"/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetAppDelegate.m319795590#10#0#10#0#0"0(13@146"Expected specifier-qualifier-list before 'AVAudioPlayer' in /Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.h319796531#18446744073709551615#0#0(6@86"/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.h319796292#13#0#13#0#0"0(6@86"/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.h319796292#13#0#13#0#19"expected * before *0(4@56"Expected specifier-qualifier-list before 'AVAudioPlayer'319796531#265#155#2(7@105"In file included from /Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetAppDelegate.m319796531#18446744073709551615#0#0(6@83"/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetAppDelegate.m319795590#10#0#10#0#0"0(13@146"Expected specifier-qualifier-list before 'AVAudioPlayer' in /Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.h319796531#18446744073709551615#0#0(6@86"/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.h319796292#18#0#18#0#0"0(6@86"/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.h319796292#18#0#18#0#19"expected * before *0(0#0#83"/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetAppDelegate.m8611185056#2203"    cd "/Users/sathish/Documents/iPhone Apps/AudioFromNet"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/AudioFromNet-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/AudioFromNet-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/AudioFromNet-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/AudioFromNet-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioFromNet_Prefix-fkkqosuocuzrusfustppolzspyoo/AudioFromNet_Prefix.pch -c "/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetAppDelegate.m" -o "/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/Objects-normal/i386/AudioFromNetAppDelegate.o"1#
+
+CCompileC build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/Objects-normal/i386/AudioFromNetViewController.o "/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319796531.804603
+e319796531.858292
+r0
+xCompileC
+xbuild/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/Objects-normal/i386/AudioFromNetViewController.o
+x/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m:9:
+o/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.h:13: error: expected specifier-qualifier-list before 'AVAudioPlayer'
+o/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.h:18: error: expected specifier-qualifier-list before 'AVAudioPlayer'
+o/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m:13: error: no declaration of property 'audioPlayer' found in the interface
+o/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m: In function '-[AudioFromNetViewController viewDidLoad]':
+o/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m:44: error: request for member 'audioPlayer' in something not a structure or union
+o/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m:44: error: 'AVAudioPlayer' undeclared (first use in this function)
+o/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m:44: error: (Each undeclared identifier is reported only once
+o/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m:44: error: for each function it appears in.)
+o/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m: In function '-[AudioFromNetViewController playAudio]':
+o/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m:52: error: request for member 'audioPlayer' in something not a structure or union
+lSLF07#2@94"Compile /Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m319796531#319796531#0(1644"In file included from /Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m:9:/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.h:13: error: expected specifier-qualifier-list before 'AVAudioPlayer'/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.h:18: error: expected specifier-qualifier-list before 'AVAudioPlayer'/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m:13: error: no declaration of property 'audioPlayer' found in the interface/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m: In function '-[AudioFromNetViewController viewDidLoad]':/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m:44: error: request for member 'audioPlayer' in something not a structure or union/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m:44: error: 'AVAudioPlayer' undeclared (first use in this function)/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m:44: error: (Each undeclared identifier is reported only once/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m:44: error: for each function it appears in.)/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m: In function '-[AudioFromNetViewController playAudio]':/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m:52: error: request for member 'audioPlayer' in something not a structure or union6(4@56"Expected specifier-qualifier-list before 'AVAudioPlayer'319796531#112#155#2(7@108"In file included from /Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m319796531#18446744073709551615#0#0(6@86"/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m319796525#9#0#9#0#0"0(13@146"Expected specifier-qualifier-list before 'AVAudioPlayer' in /Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.h319796531#18446744073709551615#0#0(6@86"/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.h319796292#13#0#13#0#0"0(6@86"/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.h319796292#13#0#13#0#19"expected * before *0(4@56"Expected specifier-qualifier-list before 'AVAudioPlayer'319796531#267#155#2(7@108"In file included from /Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m319796531#18446744073709551615#0#0(6@86"/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m319796525#9#0#9#0#0"0(13@146"Expected specifier-qualifier-list before 'AVAudioPlayer' in /Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.h319796531#18446744073709551615#0#0(6@86"/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.h319796292#18#0#18#0#0"0(6@86"/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.h319796292#18#0#18#0#19"expected * before *0(4@63"No declaration of property 'audioPlayer' found in the interface319796531#422#162#0(6@86"/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m319796525#13#0#13#0#0"0(4@70"Request for member 'audioPlayer' in something not a structure or union319796531#729#169#0(6@86"/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m319796525#44#0#44#0#0"0(4@55"'AVAudioPlayer' undeclared (first use in this function)319796531#898#154#0(6@86"/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m319796525#44#0#44#0#43"'*' undeclared (first use in this function)0(4@70"Request for member 'audioPlayer' in something not a structure or union319796531#1475#169#0(6@86"/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m319796525#52#0#52#0#0"0(0#0#86"/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m8610762496#2209"    cd "/Users/sathish/Documents/iPhone Apps/AudioFromNet"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/AudioFromNet-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/AudioFromNet-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/AudioFromNet-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/AudioFromNet-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioFromNet_Prefix-fkkqosuocuzrusfustppolzspyoo/AudioFromNet_Prefix.pch -c "/Users/sathish/Documents/iPhone Apps/AudioFromNet/Classes/AudioFromNetViewController.m" -o "/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/Objects-normal/i386/AudioFromNetViewController.o"1#
+
+CCompileC build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/Objects-normal/i386/main.o "/Users/sathish/Documents/iPhone Apps/AudioFromNet/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s319796531.660193
+e319796531.805802
+r1
+xCompileC
+xbuild/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/Objects-normal/i386/main.o
+x/Users/sathish/Documents/iPhone Apps/AudioFromNet/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/sathish/Documents/iPhone Apps/AudioFromNet/main.m319796531#319796531#0(0"0(0#0#56"/Users/sathish/Documents/iPhone Apps/AudioFromNet/main.m8611830944#2157"    cd "/Users/sathish/Documents/iPhone Apps/AudioFromNet"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/AudioFromNet-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/AudioFromNet-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/AudioFromNet-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/AudioFromNet-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioFromNet_Prefix-fkkqosuocuzrusfustppolzspyoo/AudioFromNet_Prefix.pch -c "/Users/sathish/Documents/iPhone Apps/AudioFromNet/main.m" -o "/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/sathish/Documents/iPhone Apps/AudioFromNet/AudioFromNetViewController.xib"
+s319796530.214309
+e319796530.660438
+r1
+xCompileXIB
+x/Users/sathish/Documents/iPhone Apps/AudioFromNet/AudioFromNetViewController.xib
+oCouldn't open shared capabilities memory GSCapabilities (No such file or directory)
+lSLF07#2@41"CompileXIB AudioFromNetViewController.xib319796530#319796530#0(84"Couldn't open shared capabilities memory GSCapabilities (No such file or directory)0(0#0#80"/Users/sathish/Documents/iPhone Apps/AudioFromNet/AudioFromNetViewController.xib8611482560#646"    cd "/Users/sathish/Documents/iPhone Apps/AudioFromNet"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/Debug-iphonesimulator/AudioFromNet.app/AudioFromNetViewController.nib" "/Users/sathish/Documents/iPhone Apps/AudioFromNet/AudioFromNetViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/sathish/Documents/iPhone Apps/AudioFromNet/MainWindow.xib"
+s319796530.202338
+e319796530.611289
+r1
+xCompileXIB
+x/Users/sathish/Documents/iPhone Apps/AudioFromNet/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib319796530#319796530#0(0"0(0#0#64"/Users/sathish/Documents/iPhone Apps/AudioFromNet/MainWindow.xib8611753184#614"    cd "/Users/sathish/Documents/iPhone Apps/AudioFromNet"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/Debug-iphonesimulator/AudioFromNet.app/MainWindow.nib" "/Users/sathish/Documents/iPhone Apps/AudioFromNet/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/Debug-iphonesimulator/AudioFromNet.app.dSYM" "/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/Debug-iphonesimulator/AudioFromNet.app/AudioFromNet"
+r0
+
+CLd "/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/Debug-iphonesimulator/AudioFromNet.app/AudioFromNet" normal i386
+r0
+
+CProcessInfoPlistFile "/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/Debug-iphonesimulator/AudioFromNet.app/Info.plist" AudioFromNet-Info.plist
+s319796530.171923
+e319796530.202234
+r1
+xProcessInfoPlistFile
+x/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/Debug-iphonesimulator/AudioFromNet.app/Info.plist
+xAudioFromNet-Info.plist
+lSLF07#2@31"Process AudioFromNet-Info.plist319796530#319796530#0(0"0(0#0#73"/Users/sathish/Documents/iPhone Apps/AudioFromNet/AudioFromNet-Info.plist8387196112975579136#533"    cd "/Users/sathish/Documents/iPhone Apps/AudioFromNet"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility AudioFromNet-Info.plist -genpkginfo "/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/Debug-iphonesimulator/AudioFromNet.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/Debug-iphonesimulator/AudioFromNet.app/Info.plist"0#
+
+CProcessPCH /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioFromNet_Prefix-fkkqosuocuzrusfustppolzspyoo/AudioFromNet_Prefix.pch.gch AudioFromNet_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s319796530.660624
+e319796531.659943
+r1
+xProcessPCH
+x/var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioFromNet_Prefix-fkkqosuocuzrusfustppolzspyoo/AudioFromNet_Prefix.pch.gch
+xAudioFromNet_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile AudioFromNet_Prefix.pch319796530#319796531#0(0"0(0#0#73"/Users/sathish/Documents/iPhone Apps/AudioFromNet/AudioFromNet_Prefix.pch8611807904#2031"    cd "/Users/sathish/Documents/iPhone Apps/AudioFromNet"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/AudioFromNet-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/AudioFromNet-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/AudioFromNet-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/AudioFromNet-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/AudioFromNet.build/Debug-iphonesimulator/AudioFromNet.build/DerivedSources" -c "/Users/sathish/Documents/iPhone Apps/AudioFromNet/AudioFromNet_Prefix.pch" -o /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/AudioFromNet_Prefix-fkkqosuocuzrusfustppolzspyoo/AudioFromNet_Prefix.pch.gch0#
+
+CTouch "/Users/sathish/Documents/iPhone Apps/AudioFromNet/build/Debug-iphonesimulator/AudioFromNet.app"
+r0
+
